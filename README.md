@@ -1,23 +1,32 @@
-### Hi there 👋
-## Features
+### Hi there 👋, welcome to my GitHub profile!
 
-- Import a HTML file and watch it magically convert to Markdown
-- Drag and drop images (requires your Dropbox account be linked)
-- Import and save files from GitHub, Dropbox, Google Drive and One Drive
-- Drag and drop markdown and HTML files into Dillinger
-- Export documents as Markdown, HTML and PDF
+## Who I am?
 
-Markdown is a lightweight markup language based on the formatting conventions
-that people naturally use in email.
-As [John Gruber] writes on the [Markdown site][df1]
+Let me introduce myself, my name is Juan Luis Sanz and I am from Madrid (Spain). Currently,
+I am studying a Computer Engineering Degree at Escuela Politécnica Superior, in Universidad
+Autónoma de Madrid. 
 
-> The overriding design goal for Markdown's
-> formatting syntax is to make it as readable
-> as possible. The idea is that a
-> Markdown-formatted document should be
-> publishable as-is, as plain text, without
-> looking like it's been marked up with tags
-> or formatting instructions.
+It is a pleasure to have you here, investigate everything you want in my profile. If you need 
+to contact me, do not hesitate to do so at the following email: [juanlu.sc56@gmail.com](mailto:juanlu.sc56@gmail.com)
+
+## What I am working on?
+I am currently doing an internship at a spanish company named Aqua eSolutions, as well as studying
+for finishing this year(I hope) the degree and become a computer engineer.
+
+## :warning: Disclaimer
+In this repository you will find many of the practices carried out in the different subjects of 
+the degree. This does not mean that they are completely correct, and, of course, their copying 
+is strictly prohibited, subject to the possible consequences on the part of the School. Neither I 
+nor any of the collaborators are responsible for the misuse of these practices since their main 
+objective is didactic, to serve as guidance, and not as a plagiarism tool.
+
+En este repositorio encontrarás muchas de las prácticas realizadas en las diferentes asignaturas 
+del grado. Ello no indica que estén correctas en su totalidad, y, por supuesto, queda terminantemente 
+prohibida su copia, ateniéndose a las posibles consecuencias por parte de la Escuela. Ni yo ni 
+ninguno de los colaboradores nos responsabilizamos del mal uso de estas prácticas ya que su objetivo 
+principal es didáctico, para servir de orientación, y no como herramienta de plagio.
+
+
 <!--
 **juanlu3c/juanlu3c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
