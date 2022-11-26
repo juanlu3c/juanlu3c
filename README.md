@@ -24,5 +24,4 @@ objective is didactic, to serve as guidance, and not as a plagiarism tool.
 
 ### :pineapple: Check out my social media
 - [Web](#)
-- [Web](#)
 - [LinkedIn](https://www.linkedin.com/in/juan-luis-sanz-engineer/)
