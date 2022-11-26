@@ -24,5 +24,5 @@ objective is didactic, to serve as guidance, and not as a plagiarism tool.
 
 ### :pineapple: Check out my social media
 - [Web](#)
-- [LinkedIn](https://www.linkedin.com/in/juan-luis-sanz-engineer/)
-
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="juan-luis-sanz-engineer" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://es.linkedin.com/in/juan-luis-sanz-engineer?trk=profile-badge">Juan Luis Sanz Calvar</a></div>
+- 
